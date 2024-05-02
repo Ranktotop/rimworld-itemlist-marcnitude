@@ -16,8 +16,8 @@ description_header: Beschreibung
 cost_header: Kosten
 category_header: Kategorie
 karma_type_header: Karma Typ
-add_cost_header: Kosten erhöhen
-remove_cost_header: Kosten senken
+add_cost_header: "Kosten erhöhen"
+remove_cost_header: "Kosten senken"
 name_header: Name
 
 # Error messages
