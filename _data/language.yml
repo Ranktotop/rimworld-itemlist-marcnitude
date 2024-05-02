@@ -1,50 +1,50 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'Produkte'
+events_tab: 'Ereignisse'
+traits_tab: 'Eigenschaften'
+animals_tab: 'Tiere'
+weapons_tab: 'Waffen'
+pawn_kinds_tab: 'Kolonistenarten'
 
 # Table headers
 mod_name_header: Mod Name
-author_header: Author
+author_header: Autor
 version_header: Version
-command_name_header: Command Name
+command_name_header: Befehl
 user_level_header: User Level
-description_header: Description
-cost_header: Cost
-category_header: Category
-karma_type_header: Karma Type
-add_cost_header: Add Cost
-remove_cost_header: Remove Cost
+description_header: Beschreibung
+cost_header: Kosten
+category_header: Kategorie
+karma_type_header: Karma Typ
+add_cost_header: Kosten erhöhen
+remove_cost_header: Kosten senken
 name_header: Name
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'Keine Befehle gefunden'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
-see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_traits: 'Preise in der Rubrik "Eigenschaften" ansehen'
+see_kinds: 'Preise in der Rubrik "Kolonistenarten" ansehen'
+see_items: 'Preise in der Rubrik "Produkte" ansehen'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
-search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_items: 'Nach Produkt suchen...'
+search_traits: 'Nach Eigenschaft suchen...'
+search_pawn_kinds: 'Nach Kolonistenart suchen...'
+search_mods: 'Nach Mod suchen...'
+search_commands: 'Nach Befehl suchen...'
+search_animals: 'Nach Tieren suchen...'
+search_events: 'Nach Ereignis suchen...'
+search_weapons: 'Nach Waffen suchen...'
 
 # Metadata
-usage: 'Usage: %s'
-shortcut: 'This is a shortcut for %s'
-stats: 'Stats'
-conflicts_with: 'Conflicts with'
-from: 'From %s'
-weight: 'Weight'
+usage: 'Verwendung: %s'
+shortcut: 'Das ist ein Kürzel für %s'
+stats: 'Statistik'
+conflicts_with: 'Konflikt mit'
+from: 'Von %s'
+weight: 'Gewicht'
 limit: 'Limit'
 karma: 'Karma'
-bypasses_limit: 'This trait may exceed the trait limit'
+bypasses_limit: 'Diese Eigenschaft übersteigt das Eigenschaften-Limit'
