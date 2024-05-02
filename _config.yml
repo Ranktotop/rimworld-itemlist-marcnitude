@@ -3,8 +3,8 @@ title: "Marcnitude's Einkaufsliste für Rimworld"
 favicon: assets/img/favicon.png
 description: "Eine aktuelle Einkaufsliste für Marcnitude's Rimworld Streams."
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://rimworld.marcnitude.de' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'marcnitude'
 github_username: 'Ranktotop'
 
