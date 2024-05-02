@@ -1912,12 +1912,12 @@
     "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
-    "KarmaTypeForUsing": null,
+    "KarmaTypeForUsing": "Good",
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Good"
   },
   "TechprofSubpersonaCore": {
     "CustomName": null,
@@ -6081,12 +6081,12 @@
   },
   "Squirrel": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 20,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": true,

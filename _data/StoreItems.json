@@ -574,7 +574,7 @@
       "abr": "resurrektor-mech-serum",
       "category": "Drogen",
       "defname": "MechSerumResurrector",
-      "price": 2833
+      "price": 2000
     },
     {
       "abr": "techprof-subpersona-kern",
@@ -1828,7 +1828,7 @@
       "abr": "eichhörnchen",
       "category": "Tiere",
       "defname": "Squirrel",
-      "price": 58
+      "price": 100
     },
     {
       "abr": "ratte",
