@@ -2752,12 +2752,12 @@
     "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
-    "KarmaTypeForUsing": null,
+    "KarmaTypeForUsing": "Neutral",
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "RawHops": {
     "CustomName": null,
@@ -5257,7 +5257,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "YorkshireTerrier": {
     "CustomName": null,
@@ -5277,7 +5277,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "GuineaPig": {
     "CustomName": null,
@@ -5377,7 +5377,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Duck": {
     "CustomName": null,
@@ -5417,7 +5417,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Goose": {
     "CustomName": null,
@@ -5737,7 +5737,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Megascarab": {
     "CustomName": null,
@@ -5757,7 +5757,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Spelopede": {
     "CustomName": null,
@@ -6077,7 +6077,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Squirrel": {
     "CustomName": null,
@@ -6097,7 +6097,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Rat": {
     "CustomName": null,
@@ -6157,7 +6157,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Iguana": {
     "CustomName": null,
@@ -6177,7 +6177,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Warg": {
     "CustomName": null,
@@ -14292,12 +14292,12 @@
     "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
-    "KarmaTypeForUsing": null,
+    "KarmaTypeForUsing": "Neutral",
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Meat_Thrumbo": {
     "CustomName": null,

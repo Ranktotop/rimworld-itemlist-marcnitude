@@ -9,13 +9,13 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
+    "version": "11.0.4"
   },
   {
     "author": "Nova und Company",
     "name": "Rimworld Together",
     "steamId": "3005289691",
-    "version": "1.0.0+814c178ba0660209b30ec99c54a7cfad5ba58855"
+    "version": "1.0.0+58c2c05066f286a019a10a632bc264bcec887adf"
   },
   {
     "author": "UnlimitedHugs",
@@ -39,7 +39,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.5.0"
+    "version": "3.2.0.0"
   },
   {
     "author": "CrashM",
@@ -57,7 +57,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8888.40976"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "Dubwise",
@@ -264,12 +264,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Research Tree (Continued)",
-    "steamId": "3030499331",
-    "version": "1.5.1"
-  },
-  {
     "author": "swablu",
     "name": "Ambient Rim",
     "steamId": "3158997430",
@@ -429,7 +423,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.8.4"
+    "version": "2.8.5"
   },
   {
     "author": "SamBucher",
@@ -460,5 +454,107 @@
     "name": "Twitch Chat",
     "steamId": "2075845400",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "A Dog Said... Animal Prosthetics 2 - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Cash Register - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Gastronomy - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "RimHUD - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "RT Solar Flare Shield - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Apparel Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Armour Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Events Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Fishing Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Art Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Medical Module Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Helixien Gas Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Coilguns Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Heavy Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "WeaponsStats - Deutsch",
+    "steamId": null,
+    "version": null
   }
 ]
